@@ -1,0 +1,486 @@
+2024-06-13 13:47:22,100 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - fc47dc10
+2024-06-13 13:47:22,100 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  get-serialno 
+2024-06-13 13:47:22,100 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:22,101 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                       fc47dc10
+2024-06-13 13:47:22,144 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - fc47dc10
+2024-06-13 13:47:22,144 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  get-serialno 
+2024-06-13 13:47:22,144 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:22,144 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                       fc47dc10
+2024-06-13 13:47:22,283 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - atoll
+2024-06-13 13:47:22,284 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  getprop  ro.board.platform 
+2024-06-13 13:47:22,284 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:22,284 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                          atoll
+2024-06-13 13:47:22,408 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - Xiaomi
+2024-06-13 13:47:22,408 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  getprop  ro.product.manufacturer 
+2024-06-13 13:47:22,408 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:22,408 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                         Xiaomi
+2024-06-13 13:47:22,510 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - QTI
+2024-06-13 13:47:22,510 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  getprop  ro.soc.manufacturer 
+2024-06-13 13:47:22,510 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:22,510 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                            QTI
+2024-06-13 13:47:22,596 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - SM7125
+2024-06-13 13:47:22,596 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  getprop  ro.soc.model 
+2024-06-13 13:47:22,597 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:22,597 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                         SM7125
+2024-06-13 13:47:22,689 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - msm
+2024-06-13 13:47:22,689 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  getprop  ro.baseband 
+2024-06-13 13:47:22,689 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:22,689 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                            msm
+2024-06-13 13:47:22,789 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - dsds
+2024-06-13 13:47:22,789 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  getprop  persist.radio.multisim.config 
+2024-06-13 13:47:22,789 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:22,789 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                           dsds
+2024-06-13 13:47:22,889 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - adreno
+2024-06-13 13:47:22,889 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  getprop  ro.hardware.egl 
+2024-06-13 13:47:22,889 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:22,889 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                         adreno
+2024-06-13 13:47:22,993 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 
+2024-06-13 13:47:22,993 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  getprop  ro.hardware.nfc_nci 
+2024-06-13 13:47:22,993 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:22,993 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                               
+2024-06-13 13:47:23,234 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - Physical size: 1080x2400
+2024-06-13 13:47:23,234 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  wm  size 
+2024-06-13 13:47:23,235 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:23,235 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :       Physical size: 1080x2400
+2024-06-13 13:47:23,356 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - Physical density: 440
+2024-06-13 13:47:23,357 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  wm  density 
+2024-06-13 13:47:23,357 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:23,357 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :          Physical density: 440
+2024-06-13 13:47:23,490 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - free
+2024-06-13 13:47:23,490 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  wm  user-rotation 
+2024-06-13 13:47:23,491 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:23,491 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                           free
+2024-06-13 13:47:23,612 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - Supports non-resizable in multi window: 0
+Respects activity min width/height in multi window: 0
+2024-06-13 13:47:23,612 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  wm  get-multi-window-config 
+2024-06-13 13:47:23,613 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:23,613 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output : Supports non-resizable in multi window: 0
+Respects activity min width/height in multi window: 0
+2024-06-13 13:47:23,676 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - Android Debug Bridge version 1.0.41
+Version 35.0.1-11580240
+Installed as C:\Users\manid\AppData\Local\Android\Sdk\platform-tools\adb.exe
+Running on Windows 10.0.19045
+2024-06-13 13:47:23,677 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed :  adb wait-for-device  version 
+2024-06-13 13:47:23,677 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:23,677 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output : Android Debug Bridge version 1.0.41
+Version 35.0.1-11580240
+Installed as C:\Users\manid\AppData\Local\Android\Sdk\platform-tools\adb.exe
+Running on Windows 10.0.19045
+2024-06-13 13:47:23,761 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 12
+2024-06-13 13:47:23,761 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  getprop  ro.build.version.release 
+2024-06-13 13:47:23,762 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:23,762 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                             12
+2024-06-13 13:47:23,848 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 
+2024-06-13 13:47:23,848 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  getprop  ro.kernel.version 
+2024-06-13 13:47:23,849 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:23,849 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                               
+2024-06-13 13:47:23,934 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 31
+2024-06-13 13:47:23,934 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  getprop  ro.build.version.sdk 
+2024-06-13 13:47:23,934 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:23,934 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                             31
+2024-06-13 13:47:24,037 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 31
+2024-06-13 13:47:24,037 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  getprop  ro.product.build.version.sdk 
+2024-06-13 13:47:24,037 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:24,037 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                             31
+2024-06-13 13:47:24,123 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 31
+2024-06-13 13:47:24,123 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  getprop  ro.system.build.version.sdk 
+2024-06-13 13:47:24,123 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:24,123 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                             31
+2024-06-13 13:47:24,195 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 30
+2024-06-13 13:47:24,195 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  getprop  ro.vendor.build.version.sdk 
+2024-06-13 13:47:24,195 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:24,195 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                             30
+2024-06-13 13:47:24,329 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - policy0
+policy6
+2024-06-13 13:47:24,329 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  ls /sys/devices/system/cpu/cpufreq
+2024-06-13 13:47:24,329 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:24,329 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :               policy0
+policy6
+2024-06-13 13:47:24,431 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 0 1 2 3 4 5
+2024-06-13 13:47:24,432 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy0/related_cpus
+2024-06-13 13:47:24,432 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:24,432 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                    0 1 2 3 4 5
+2024-06-13 13:47:24,521 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 576000
+2024-06-13 13:47:24,521 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy0/scaling_min_freq
+2024-06-13 13:47:24,521 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:24,522 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                         576000
+2024-06-13 13:47:24,621 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 1804800
+2024-06-13 13:47:24,621 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy0/scaling_max_freq
+2024-06-13 13:47:24,621 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:24,621 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                        1804800
+2024-06-13 13:47:24,734 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 1017600
+2024-06-13 13:47:24,734 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy0/scaling_cur_freq
+2024-06-13 13:47:24,734 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:24,734 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                        1017600
+2024-06-13 13:47:24,839 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 300000 576000 768000 1017600 1248000 1324800 1516800 1612800 1708800 1804800
+2024-06-13 13:47:24,839 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy0/scaling_available_frequencies
+2024-06-13 13:47:24,840 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:24,840 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output : 300000 576000 768000 1017600 1248000 1324800 1516800 1612800 1708800 1804800
+2024-06-13 13:47:24,954 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - conservative ondemand userspace powersave performance schedutil
+2024-06-13 13:47:24,954 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy0/scaling_available_governors
+2024-06-13 13:47:24,954 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:24,954 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output : conservative ondemand userspace powersave performance schedutil
+2024-06-13 13:47:25,057 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - schedutil
+2024-06-13 13:47:25,057 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy0/scaling_governor
+2024-06-13 13:47:25,058 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:25,059 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                      schedutil
+2024-06-13 13:47:25,208 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 
+2024-06-13 13:47:25,209 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy0/../../offline
+2024-06-13 13:47:25,209 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:25,209 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                               
+2024-06-13 13:47:25,320 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 0-7
+2024-06-13 13:47:25,320 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy0/../../online
+2024-06-13 13:47:25,320 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:25,320 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                            0-7
+2024-06-13 13:47:25,398 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 
+2024-06-13 13:47:25,398 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy0/../../cpu_boost/input_boost_freq
+2024-06-13 13:47:25,398 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:25,398 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                               
+2024-06-13 13:47:25,475 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 467
+2024-06-13 13:47:25,475 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy0/../../cpu0/cpu_capacity
+2024-06-13 13:47:25,475 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:25,475 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                            467
+2024-06-13 13:47:25,564 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - Processor	: AArch64 Processor rev 14 (aarch64)
+2024-06-13 13:47:25,564 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /proc/cpuinfo | grep Processor
+2024-06-13 13:47:25,564 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:25,565 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output : Processor	: AArch64 Processor rev 14 (aarch64)
+2024-06-13 13:47:25,565 INFO     SpecsInfo.CpuSpecsInfo  [CpuSpecsInfo.py:138] [MainThread]  Core Arch : AArch64 Processor rev 14 (aarch64)
+2024-06-13 13:47:25,652 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 6 7
+2024-06-13 13:47:25,652 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy6/related_cpus
+2024-06-13 13:47:25,653 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:25,653 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                            6 7
+2024-06-13 13:47:25,737 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 1113600
+2024-06-13 13:47:25,737 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy6/scaling_min_freq
+2024-06-13 13:47:25,737 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:25,737 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                        1113600
+2024-06-13 13:47:25,820 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 2323200
+2024-06-13 13:47:25,820 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy6/scaling_max_freq
+2024-06-13 13:47:25,820 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:25,820 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                        2323200
+2024-06-13 13:47:25,920 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 1113600
+2024-06-13 13:47:25,921 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy6/scaling_cur_freq
+2024-06-13 13:47:25,921 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:25,921 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                        1113600
+2024-06-13 13:47:26,044 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 652800 825600 979200 1113600 1267200 1555200 1708800 1843200 1900800 1996800 2112000 2208000 2323200
+2024-06-13 13:47:26,044 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy6/scaling_available_frequencies
+2024-06-13 13:47:26,045 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:26,045 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output : 652800 825600 979200 1113600 1267200 1555200 1708800 1843200 1900800 1996800 2112000 2208000 2323200
+2024-06-13 13:47:26,137 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - conservative ondemand userspace powersave performance schedutil
+2024-06-13 13:47:26,138 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy6/scaling_available_governors
+2024-06-13 13:47:26,138 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:26,138 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output : conservative ondemand userspace powersave performance schedutil
+2024-06-13 13:47:26,225 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - schedutil
+2024-06-13 13:47:26,225 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy6/scaling_governor
+2024-06-13 13:47:26,225 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:26,225 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                      schedutil
+2024-06-13 13:47:26,397 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 
+2024-06-13 13:47:26,397 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy6/../../offline
+2024-06-13 13:47:26,398 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:26,398 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                               
+2024-06-13 13:47:26,523 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 0-7
+2024-06-13 13:47:26,524 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy6/../../online
+2024-06-13 13:47:26,524 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:26,524 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                            0-7
+2024-06-13 13:47:26,720 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 
+2024-06-13 13:47:26,721 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy6/../../cpu_boost/input_boost_freq
+2024-06-13 13:47:26,721 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:26,721 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                               
+2024-06-13 13:47:26,861 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 1024
+2024-06-13 13:47:26,861 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /sys/devices/system/cpu/cpufreq/policy6/../../cpu6/cpu_capacity
+2024-06-13 13:47:26,862 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:26,862 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                           1024
+2024-06-13 13:47:27,044 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - Processor	: AArch64 Processor rev 15 (aarch64)
+2024-06-13 13:47:27,044 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  cat /proc/cpuinfo | grep Processor
+2024-06-13 13:47:27,044 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:27,044 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output : Processor	: AArch64 Processor rev 15 (aarch64)
+2024-06-13 13:47:27,045 INFO     SpecsInfo.CpuSpecsInfo  [CpuSpecsInfo.py:138] [MainThread]  Core Arch : AArch64 Processor rev 15 (aarch64)
+2024-06-13 13:47:27,217 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - Physical density: 440
+2024-06-13 13:47:27,218 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  wm  density 
+2024-06-13 13:47:27,218 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:27,218 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :          Physical density: 440
+2024-06-13 13:47:27,441 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - Physical size: 1080x2400
+2024-06-13 13:47:27,441 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  wm  size 
+2024-06-13 13:47:27,442 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:27,442 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :       Physical size: 1080x2400
+2024-06-13 13:47:28,777 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - mScreenBrightnessRangeDefault=0.26160234
+  mScreenBrightnessDozeConfig=0.0039081583
+  mScreenBrightnessDimConfig=0.005129458
+  mScreenBrightnessRangeMinimum=0.002198339
+  mScreenBrightnessRangeMaximum=1.0
+  mScreenBrightnessForVrRangeMinimum=0.30850023
+  mScreenBrightnessForVrRangeMaximum=1.0
+  mScreenBrightnessForVrDefault=0.33585736
+  mScreenBrightnessForVrFloat=0.33585736
+  mScreenBrightnessRampAnimator.isAnimating()=false
+  mScreenBrightness=1.0
+  mScreenBrightnessRangeMinimum=0.002198339
+  mScreenBrightnessRangeMaximum=1.0
+2024-06-13 13:47:28,777 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  dumpsys display | grep mScreenBrightness
+2024-06-13 13:47:28,778 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:28,778 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output : mScreenBrightnessRangeDefault=0.26160234
+  mScreenBrightnessDozeConfig=0.0039081583
+  mScreenBrightnessDimConfig=0.005129458
+  mScreenBrightnessRangeMinimum=0.002198339
+  mScreenBrightnessRangeMaximum=1.0
+  mScreenBrightnessForVrRangeMinimum=0.30850023
+  mScreenBrightnessForVrRangeMaximum=1.0
+  mScreenBrightnessForVrDefault=0.33585736
+  mScreenBrightnessForVrFloat=0.33585736
+  mScreenBrightnessRampAnimator.isAnimating()=false
+  mScreenBrightness=1.0
+  mScreenBrightnessRangeMinimum=0.002198339
+  mScreenBrightnessRangeMaximum=1.0
+2024-06-13 13:47:28,925 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - DisplayDeviceInfo{"Built-in Screen": uniqueId="local:4630946580317548417", 1080 x 2400, modeId 1, defaultModeId 1, supportedModes [{id=1, width=1080, height=2400, fps=60.000004, alternativeRefreshRates=[]}], colorMode 0, supportedColorModes [0], hdrCapabilities HdrCapabilities{mSupportedHdrTypes=[2, 3, 4], mMaxLuminance=500.0, mMaxAverageLuminance=500.0, mMinLuminance=0.0}, allmSupported false, gameContentTypeSupported false, density 440, 397.565 x 395.844 dpi, appVsyncOff 1000000, presDeadline 16666666, cutout DisplayCutout{insets=Rect(0, 102 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(504, 0 - 576, 102), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 density={2.75} cutoutSpec={M 0,0 H -36 V 102 H 36 V 0 H 0 Z} rotation={0} scale={1.0}}}}, touch INTERNAL, rotation 0, type INTERNAL, address {port=129, model=0x40446d6105a32f}, deviceProductInfo DeviceProductInfo{name=, manufacturerPnpId=QCM, productId=1, modelYear=null, manufactureDate=ManufactureDate{week=27, year=2006}, connectionToSinkType=0}, state ON, frameRateOverride , brightnessMinimum 0.0, brightnessMaximum 1.0, brightnessDefault 0.26160234, roundedCorners RoundedCorners{[RoundedCorner{position=TopLeft, radius=93, center=Point(93, 93)}, RoundedCorner{position=TopRight, radius=93, center=Point(987, 93)}, RoundedCorner{position=BottomRight, radius=93, center=Point(987, 2307)}, RoundedCorner{position=BottomLeft, radius=93, center=Point(93, 2307)}]}, FLAG_DEFAULT_DISPLAY, FLAG_ROTATES_WITH_CONTENT, FLAG_SECURE, FLAG_SUPPORTS_PROTECTED_BUFFERS}
+    mDisplayModeSpecs={baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]}
+      DisplayModeRecord{mMode={id=1, width=1080, height=2400, fps=60.000004, alternativeRefreshRates=[]}}
+    mDisplayDeviceConfig=DisplayDeviceConfig{mLoadedFrom=<config.xml>, mBacklight=null, mNits=null, mRawBacklight=null, mRawNits=null, mBrightness=null, mBrightnessToBacklightSpline=MonotoneCubicSpline{[(0.0, 0.0: 1.0), (1.0, 1.0: 1.0)]}, mBacklightToBrightnessSpline=MonotoneCubicSpline{[(0.0, 0.0: 1.0), (1.0, 1.0: 1.0)]}, mBacklightMinimum=0.002198339, mBacklightMaximum=1.0, mBrightnessDefault=0.26160234, mQuirks=null, isHbmEnabled=false, mHbmData=null, mBrightnessRampFastDecrease=1.0, mBrightnessRampFastIncrease=1.0, mBrightnessRampSlowDecrease=0.9636053, mBrightnessRampSlowIncrease=0.9636053, mAmbientLightSensor=Sensor{type: , name: , refreshRateRange: [0.0, Infinity]} , mProximitySensor=Sensor{type: , name: , refreshRateRange: [0.0, Infinity]} , mRefreshRateLimitations= []}
+    mDesiredDisplayModeSpecs={baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]}
+    mBaseDisplayInfo=DisplayInfo{"Built-in Screen", displayId 0", displayGroupId 0, FLAG_SECURE, FLAG_SUPPORTS_PROTECTED_BUFFERS, FLAG_TRUSTED, real 1080 x 2400, largest app 1080 x 2400, smallest app 1080 x 2400, appVsyncOff 1000000, presDeadline 16666666, mode 1, defaultMode 1, modes [{id=1, width=1080, height=2400, fps=60.000004, alternativeRefreshRates=[]}], hdrCapabilities HdrCapabilities{mSupportedHdrTypes=[2, 3, 4], mMaxLuminance=500.0, mMaxAverageLuminance=500.0, mMinLuminance=0.0}, userDisabledHdrTypes [], minimalPostProcessingSupported false, rotation 0, state ON, type INTERNAL, uniqueId "local:4630946580317548417", app 1080 x 2400, density 440 (397.565 x 395.844) dpi, layerStack 0, colorMode 0, supportedColorModes [0], address {port=129, model=0x40446d6105a32f}, deviceProductInfo DeviceProductInfo{name=, manufacturerPnpId=QCM, productId=1, modelYear=null, manufactureDate=ManufactureDate{week=27, year=2006}, connectionToSinkType=0}, removeMode 0, refreshRateOverride 0.0, brightnessMinimum 0.0, brightnessMaximum 1.0, brightnessDefault 0.26160234}
+    mOverrideDisplayInfo=DisplayInfo{"Built-in Screen", displayId 0", displayGroupId 0, FLAG_SECURE, FLAG_SUPPORTS_PROTECTED_BUFFERS, FLAG_TRUSTED, real 2400 x 1080, largest app 2298 x 2254, smallest app 1080 x 934, appVsyncOff 1000000, presDeadline 16666666, mode 1, defaultMode 1, modes [{id=1, width=1080, height=2400, fps=60.000004, alternativeRefreshRates=[]}], hdrCapabilities HdrCapabilities{mSupportedHdrTypes=[2, 3, 4], mMaxLuminance=500.0, mMaxAverageLuminance=500.0, mMinLuminance=0.0}, userDisabledHdrTypes [], minimalPostProcessingSupported false, rotation 1, state ON, type INTERNAL, uniqueId "local:4630946580317548417", app 2298 x 1036, density 440 (397.565 x 395.844) dpi, layerStack 0, colorMode 0, supportedColorModes [0], address {port=129, model=0x40446d6105a32f}, deviceProductInfo DeviceProductInfo{name=, manufacturerPnpId=QCM, productId=1, modelYear=null, manufactureDate=ManufactureDate{week=27, year=2006}, connectionToSinkType=0}, removeMode 0, refreshRateOverride 0.0, brightnessMinimum 0.0, brightnessMaximum 1.0, brightnessDefault 0.26160234}
+    0 -> [{id=1, width=1080, height=2400, fps=60.000004, alternativeRefreshRates=[]}]
+    0 -> {id=1, width=1080, height=2400, fps=60.000004, alternativeRefreshRates=[]}
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+    mDefaultRefreshRate: 0.0
+    mDefaultPeakRefreshRate: 90.0
+    mAppPreferredRefreshRateRangeByDisplay:
+    mRefreshRateChangeable: true
+    mRefreshRateInLowZone: 0
+    mRefreshRateInHighZone: 0
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+2024-06-13 13:47:28,926 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  dumpsys display | grep RefreshRate
+2024-06-13 13:47:28,927 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:28,927 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output : DisplayDeviceInfo{"Built-in Screen": uniqueId="local:4630946580317548417", 1080 x 2400, modeId 1, defaultModeId 1, supportedModes [{id=1, width=1080, height=2400, fps=60.000004, alternativeRefreshRates=[]}], colorMode 0, supportedColorModes [0], hdrCapabilities HdrCapabilities{mSupportedHdrTypes=[2, 3, 4], mMaxLuminance=500.0, mMaxAverageLuminance=500.0, mMinLuminance=0.0}, allmSupported false, gameContentTypeSupported false, density 440, 397.565 x 395.844 dpi, appVsyncOff 1000000, presDeadline 16666666, cutout DisplayCutout{insets=Rect(0, 102 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(504, 0 - 576, 102), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 density={2.75} cutoutSpec={M 0,0 H -36 V 102 H 36 V 0 H 0 Z} rotation={0} scale={1.0}}}}, touch INTERNAL, rotation 0, type INTERNAL, address {port=129, model=0x40446d6105a32f}, deviceProductInfo DeviceProductInfo{name=, manufacturerPnpId=QCM, productId=1, modelYear=null, manufactureDate=ManufactureDate{week=27, year=2006}, connectionToSinkType=0}, state ON, frameRateOverride , brightnessMinimum 0.0, brightnessMaximum 1.0, brightnessDefault 0.26160234, roundedCorners RoundedCorners{[RoundedCorner{position=TopLeft, radius=93, center=Point(93, 93)}, RoundedCorner{position=TopRight, radius=93, center=Point(987, 93)}, RoundedCorner{position=BottomRight, radius=93, center=Point(987, 2307)}, RoundedCorner{position=BottomLeft, radius=93, center=Point(93, 2307)}]}, FLAG_DEFAULT_DISPLAY, FLAG_ROTATES_WITH_CONTENT, FLAG_SECURE, FLAG_SUPPORTS_PROTECTED_BUFFERS}
+    mDisplayModeSpecs={baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]}
+      DisplayModeRecord{mMode={id=1, width=1080, height=2400, fps=60.000004, alternativeRefreshRates=[]}}
+    mDisplayDeviceConfig=DisplayDeviceConfig{mLoadedFrom=<config.xml>, mBacklight=null, mNits=null, mRawBacklight=null, mRawNits=null, mBrightness=null, mBrightnessToBacklightSpline=MonotoneCubicSpline{[(0.0, 0.0: 1.0), (1.0, 1.0: 1.0)]}, mBacklightToBrightnessSpline=MonotoneCubicSpline{[(0.0, 0.0: 1.0), (1.0, 1.0: 1.0)]}, mBacklightMinimum=0.002198339, mBacklightMaximum=1.0, mBrightnessDefault=0.26160234, mQuirks=null, isHbmEnabled=false, mHbmData=null, mBrightnessRampFastDecrease=1.0, mBrightnessRampFastIncrease=1.0, mBrightnessRampSlowDecrease=0.9636053, mBrightnessRampSlowIncrease=0.9636053, mAmbientLightSensor=Sensor{type: , name: , refreshRateRange: [0.0, Infinity]} , mProximitySensor=Sensor{type: , name: , refreshRateRange: [0.0, Infinity]} , mRefreshRateLimitations= []}
+    mDesiredDisplayModeSpecs={baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]}
+    mBaseDisplayInfo=DisplayInfo{"Built-in Screen", displayId 0", displayGroupId 0, FLAG_SECURE, FLAG_SUPPORTS_PROTECTED_BUFFERS, FLAG_TRUSTED, real 1080 x 2400, largest app 1080 x 2400, smallest app 1080 x 2400, appVsyncOff 1000000, presDeadline 16666666, mode 1, defaultMode 1, modes [{id=1, width=1080, height=2400, fps=60.000004, alternativeRefreshRates=[]}], hdrCapabilities HdrCapabilities{mSupportedHdrTypes=[2, 3, 4], mMaxLuminance=500.0, mMaxAverageLuminance=500.0, mMinLuminance=0.0}, userDisabledHdrTypes [], minimalPostProcessingSupported false, rotation 0, state ON, type INTERNAL, uniqueId "local:4630946580317548417", app 1080 x 2400, density 440 (397.565 x 395.844) dpi, layerStack 0, colorMode 0, supportedColorModes [0], address {port=129, model=0x40446d6105a32f}, deviceProductInfo DeviceProductInfo{name=, manufacturerPnpId=QCM, productId=1, modelYear=null, manufactureDate=ManufactureDate{week=27, year=2006}, connectionToSinkType=0}, removeMode 0, refreshRateOverride 0.0, brightnessMinimum 0.0, brightnessMaximum 1.0, brightnessDefault 0.26160234}
+    mOverrideDisplayInfo=DisplayInfo{"Built-in Screen", displayId 0", displayGroupId 0, FLAG_SECURE, FLAG_SUPPORTS_PROTECTED_BUFFERS, FLAG_TRUSTED, real 2400 x 1080, largest app 2298 x 2254, smallest app 1080 x 934, appVsyncOff 1000000, presDeadline 16666666, mode 1, defaultMode 1, modes [{id=1, width=1080, height=2400, fps=60.000004, alternativeRefreshRates=[]}], hdrCapabilities HdrCapabilities{mSupportedHdrTypes=[2, 3, 4], mMaxLuminance=500.0, mMaxAverageLuminance=500.0, mMinLuminance=0.0}, userDisabledHdrTypes [], minimalPostProcessingSupported false, rotation 1, state ON, type INTERNAL, uniqueId "local:4630946580317548417", app 2298 x 1036, density 440 (397.565 x 395.844) dpi, layerStack 0, colorMode 0, supportedColorModes [0], address {port=129, model=0x40446d6105a32f}, deviceProductInfo DeviceProductInfo{name=, manufacturerPnpId=QCM, productId=1, modelYear=null, manufactureDate=ManufactureDate{week=27, year=2006}, connectionToSinkType=0}, removeMode 0, refreshRateOverride 0.0, brightnessMinimum 0.0, brightnessMaximum 1.0, brightnessDefault 0.26160234}
+    0 -> [{id=1, width=1080, height=2400, fps=60.000004, alternativeRefreshRates=[]}]
+    0 -> {id=1, width=1080, height=2400, fps=60.000004, alternativeRefreshRates=[]}
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+    mDefaultRefreshRate: 0.0
+    mDefaultPeakRefreshRate: 90.0
+    mAppPreferredRefreshRateRangeByDisplay:
+    mRefreshRateChangeable: true
+    mRefreshRateInLowZone: 0
+    mRefreshRateInHighZone: 0
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 60] appRequestRefreshRateRange=[0 60]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_APP_REQUEST_REFRESH_RATE_RANGE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=60.000004, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+  mDesiredDisplayModeSpecs:baseModeId=1 allowGroupSwitching=false primaryRefreshRateRange=[0 90] appRequestRefreshRateRange=[0 90]
+      PRIORITY_USER_SETTING_PEAK_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=90.0, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+      PRIORITY_USER_SETTING_MIN_REFRESH_RATE -> Vote{width=-1, height=-1, minRefreshRate=0.0, maxRefreshRate=Infinity, disableRefreshRateSwitching=false, baseModeRefreshRate=0.0}
+2024-06-13 13:47:29,067 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - 120000
+2024-06-13 13:47:29,067 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb shell settings get system screen_off_timeout
+2024-06-13 13:47:29,067 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:29,067 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :                         120000
+2024-06-13 13:47:29,204 DEBUG    Base.Commands  [Commands.py:97] [MainThread]  Command output - SurfaceOrientation: 1
+2024-06-13 13:47:29,204 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:96] [MainThread]               Command Executed : adb wait-for-device  shell  dumpsys input | grep "SurfaceOrientation"
+2024-06-13 13:47:29,204 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:98] [MainThread]                 Command Status :                        Success
+2024-06-13 13:47:29,205 INFO     SpecsInfo.MobileSpecsInfo  [MobileSpecsInfo.py:101] [MainThread]                 Command Output :          SurfaceOrientation: 1

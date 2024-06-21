@@ -1,0 +1,44 @@
+{
+    "Deviceserialno": {
+        "value": "fc47dc10"
+    },
+    "HardwareBoardPlatform": {
+        "value": "atoll"
+    },
+    "ProductManufacturer": {
+        "value": "Xiaomi"
+    },
+    "ProductSocManufacturer": {
+        "value": "QTI"
+    },
+    "SocModel": {
+        "value": "SM7125"
+    },
+    "HardwareBaseBand": {
+        "value": "msm"
+    },
+    "DeviceModemType": {
+        "value": "dsds"
+    },
+    "HardwareGPUPlatform": {
+        "value": "adreno"
+    },
+    "NFCChipType": {
+        "value": ""
+    },
+    "PhysicalDeviceScreenSize": {
+        "value": "1080x2400"
+    },
+    "PhysicalDeviceScreenDensity": {
+        "value": "440"
+    },
+    "PhysicalDeviceScreenRotation": {
+        "value": "free"
+    },
+    "PhysicalDeviceScreenMultiWindowConfig": {
+        "value": [
+            "Supports non-resizable in multi window: 0",
+            "Respects activity min width/height in multi window: 0"
+        ]
+    }
+}

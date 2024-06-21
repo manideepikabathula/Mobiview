@@ -1,0 +1,8 @@
+{
+    "DisplayDensity": "400",
+    "DisplayScreenSize": "1080x2400",
+    "ScreenBrightness": "65",
+    "RefreshRate": "120",
+    "ScreenOffTimeout": "60000",
+    "ScreenRotation": "0"
+}

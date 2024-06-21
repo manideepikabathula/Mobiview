@@ -1,0 +1,18 @@
+{
+    "Deviceserialno": "fc47dc10",
+    "HardwareBoardPlatform": "atoll",
+    "ProductManufacturer": "Xiaomi",
+    "ProductSocManufacturer": "QTI",
+    "SocModel": "SM7125",
+    "HardwareBaseBand": "msm",
+    "DeviceModemType": "dsds",
+    "HardwareGPUPlatform": "adreno",
+    "NFCChipType": "",
+    "PhysicalDeviceScreenSize": "1080x2400",
+    "PhysicalDeviceScreenDensity": "440",
+    "PhysicalDeviceScreenRotation": "lock 0",
+    "PhysicalDeviceScreenMultiWindowConfig": [
+        "Supports non-resizable in multi window: 0",
+        "Respects activity min width/height in multi window: 0"
+    ]
+}

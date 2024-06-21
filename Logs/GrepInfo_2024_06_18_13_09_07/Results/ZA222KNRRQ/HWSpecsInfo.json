@@ -1,0 +1,18 @@
+{
+    "Deviceserialno": "ZA222KNRRQ",
+    "HardwareBoardPlatform": "parrot",
+    "ProductManufacturer": "motorola",
+    "ProductSocManufacturer": "QTI",
+    "SocModel": "SM7435",
+    "HardwareBaseBand": "msm",
+    "DeviceModemType": "dsds",
+    "HardwareGPUPlatform": "adreno",
+    "NFCChipType": "",
+    "PhysicalDeviceScreenSize": "1080x2400",
+    "PhysicalDeviceScreenDensity": "400",
+    "PhysicalDeviceScreenRotation": "free",
+    "PhysicalDeviceScreenMultiWindowConfig": [
+        "Supports non-resizable in multi window: 0",
+        "Respects activity min width/height in multi window: 0"
+    ]
+}

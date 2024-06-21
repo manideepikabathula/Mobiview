@@ -1,0 +1,46 @@
+Folder PATH listing for volume Windows
+Volume serial number is 768C-5946
+C:.
+|   Filestrucutre.txt
+|   __init__.py
+|   
++---.idea
+|   |   .gitignore
+|   |   DevInfo.iml
+|   |   misc.xml
+|   |   modules.xml
+|   |   workspace.xml
+|   |   
+|   \---inspectionProfiles
+|           profiles_settings.xml
+|           
++---Base
+|       ADB.py
+|       Commands.py
+|       FrameworkConstants.py
+|       LogConf.py
+|       __init__.py
+|       
++---Lib
+|       FileSystemUtils.py
+|       LibUtils.py
+|       ParserUtils.py
+|       __init__.py
+|       
++---Logs
++---Runner
+|       Runner.py
+|       __init__.py
+|       
++---SpecsInfo
+|       CpuSpecsInfo.py
+|       HwSpecsInfo.py
+|       MobileSpecsInfo.py
+|       SwSpecsInfo.py
+|       __init__.py
+|       
+\---Test
+        GrepInfo.py
+        Run.py
+        __init__.py
+        
